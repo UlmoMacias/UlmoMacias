@@ -6,11 +6,12 @@
 **UlmoMacias/UlmoMacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Please visit [my bio](https://ulmomacias.github.io) to learn more about me.
+Please visit [my online CV](https://ulmomacias.github.io).
+You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to learn more about me
 
 
 # ![me](https://media2.giphy.com/media/QyhbMNsMlmR5I1kgGn/giphy.gif)
 
 🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
-📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias@ciencias.unam.mx
+📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
 
