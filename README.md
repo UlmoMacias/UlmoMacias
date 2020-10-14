@@ -15,3 +15,7 @@ You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to lea
 🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
 📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
 
+<script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock />
+
+The Climate Clock shows two numbers. The first, in red, is a timer, counting down how long it will take, at current rates of emissions, to burn through our “carbon budget” — the amount of CO2 that can still be released into the atmosphere while limiting global warming to 1.5°C above pre-industrial levels. This is our deadline, the time we have left to take decisive action to keep warming under the 1.5°C threshold. The second number, in green, is tracking the growing % of the world’s energy currently supplied from renewable sources. This is our lifeline. Simply put, we need to get our lifeline to 100% before our deadline reaches 0.
