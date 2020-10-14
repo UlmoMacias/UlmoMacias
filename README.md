@@ -6,7 +6,7 @@
 **UlmoMacias/UlmoMacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Please visit [my online CV](https://ulmomacias.github.io).
+Visit [my online CV](https://ulmomacias.github.io).
 You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to learn more about me
 
 
