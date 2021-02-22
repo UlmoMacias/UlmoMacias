@@ -16,4 +16,4 @@ You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to lea
 📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
 
 
-1/3 Conflux Labs :fleur_de_lis:	
+1/3 Conflux Labs :fleur_de_lis:	:computer:	
